@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "chinmoyamplifytodo",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-chinmoyamplifytodo-dev-111228-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/441519805947a8336fbaab7cd5248ec2a386cc84"
+}
